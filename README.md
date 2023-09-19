@@ -19,3 +19,8 @@ OR Gate :
 XOR Gate :
 
 <img width="1174" alt="Screenshot 2023-09-12 at 5 20 56 PM" src="https://github.com/iAbdullahAlshehri/Quantum_Gates_Qiskit/assets/98882472/542d2dde-e31d-41bb-9b5b-2253eca57f1f">
+
+
+## Contributions:
+
+Contributions, bug fixes, and enhancements are welcome. Feel free to submit pull requests or open issues for discussions.
